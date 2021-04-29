@@ -1,0 +1,100 @@
+[
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1633080844,
+    "httpOnly": false,
+    "name": "sid",
+    "path": "/",
+    "secure": false,
+    "value": "a8zbsujj"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1633080844,
+    "httpOnly": false,
+    "name": "DedeUserID",
+    "path": "/",
+    "secure": false,
+    "value": "39089645"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1633080844,
+    "httpOnly": false,
+    "name": "bili_jct",
+    "path": "/",
+    "secure": false,
+    "value": "ae589042afce8608f31338adc6d2648a"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1649065824,
+    "httpOnly": false,
+    "name": "buvid_fp_plain",
+    "path": "/",
+    "secure": false,
+    "value": "65DCC4EE-8F30-46C3-8F68-502FE093DE8D185007infoc"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1649065824,
+    "httpOnly": false,
+    "name": "fingerprint",
+    "path": "/",
+    "secure": false,
+    "value": "5404960137572924fd14d241a661f352"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1712137824,
+    "httpOnly": false,
+    "name": "buvid3",
+    "path": "/",
+    "secure": false,
+    "value": "F3B59A5A-D9C7-4ECF-A016-CC7F4664491E184997infoc"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1633080844,
+    "httpOnly": false,
+    "name": "DedeUserID__ckMd5",
+    "path": "/",
+    "secure": false,
+    "value": "d81ae8b3013348c0"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1649065824,
+    "httpOnly": false,
+    "name": "_uuid",
+    "path": "/",
+    "secure": false,
+    "value": "AB0563A1-0269-02B5-E527-F8C4775420CF24566infoc"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1633080844,
+    "httpOnly": true,
+    "name": "SESSDATA",
+    "path": "/",
+    "secure": false,
+    "value": "59396a64%2C1633081842%2Cfae9f%2A41"
+  },
+  {
+    "domain": ".bilibili.com",
+    "expiry": 1649065824,
+    "httpOnly": false,
+    "name": "buvid_fp",
+    "path": "/",
+    "secure": false,
+    "value": "65DCC4EE-8F30-46C3-8F68-502FE093DE8D185007infoc"
+  },
+  {
+    "domain": "passport.bilibili.com",
+    "httpOnly": false,
+    "name": "finger",
+    "path": "/",
+    "secure": false,
+    "value": "158939783"
+  }
+]
