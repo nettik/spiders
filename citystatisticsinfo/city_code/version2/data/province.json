@@ -1,0 +1,157 @@
+[
+  {
+    "name": "北京市",
+    "code": "11",
+    "province_link": "11.html"
+  },
+  {
+    "name": "天津市",
+    "code": "12",
+    "province_link": "12.html"
+  },
+  {
+    "name": "河北省",
+    "code": "13",
+    "province_link": "13.html"
+  },
+  {
+    "name": "山西省",
+    "code": "14",
+    "province_link": "14.html"
+  },
+  {
+    "name": "内蒙古自治区",
+    "code": "15",
+    "province_link": "15.html"
+  },
+  {
+    "name": "辽宁省",
+    "code": "21",
+    "province_link": "21.html"
+  },
+  {
+    "name": "吉林省",
+    "code": "22",
+    "province_link": "22.html"
+  },
+  {
+    "name": "黑龙江省",
+    "code": "23",
+    "province_link": "23.html"
+  },
+  {
+    "name": "上海市",
+    "code": "31",
+    "province_link": "31.html"
+  },
+  {
+    "name": "江苏省",
+    "code": "32",
+    "province_link": "32.html"
+  },
+  {
+    "name": "浙江省",
+    "code": "33",
+    "province_link": "33.html"
+  },
+  {
+    "name": "安徽省",
+    "code": "34",
+    "province_link": "34.html"
+  },
+  {
+    "name": "福建省",
+    "code": "35",
+    "province_link": "35.html"
+  },
+  {
+    "name": "江西省",
+    "code": "36",
+    "province_link": "36.html"
+  },
+  {
+    "name": "山东省",
+    "code": "37",
+    "province_link": "37.html"
+  },
+  {
+    "name": "河南省",
+    "code": "41",
+    "province_link": "41.html"
+  },
+  {
+    "name": "湖北省",
+    "code": "42",
+    "province_link": "42.html"
+  },
+  {
+    "name": "湖南省",
+    "code": "43",
+    "province_link": "43.html"
+  },
+  {
+    "name": "广东省",
+    "code": "44",
+    "province_link": "44.html"
+  },
+  {
+    "name": "广西壮族自治区",
+    "code": "45",
+    "province_link": "45.html"
+  },
+  {
+    "name": "海南省",
+    "code": "46",
+    "province_link": "46.html"
+  },
+  {
+    "name": "重庆市",
+    "code": "50",
+    "province_link": "50.html"
+  },
+  {
+    "name": "四川省",
+    "code": "51",
+    "province_link": "51.html"
+  },
+  {
+    "name": "贵州省",
+    "code": "52",
+    "province_link": "52.html"
+  },
+  {
+    "name": "云南省",
+    "code": "53",
+    "province_link": "53.html"
+  },
+  {
+    "name": "西藏自治区",
+    "code": "54",
+    "province_link": "54.html"
+  },
+  {
+    "name": "陕西省",
+    "code": "61",
+    "province_link": "61.html"
+  },
+  {
+    "name": "甘肃省",
+    "code": "62",
+    "province_link": "62.html"
+  },
+  {
+    "name": "青海省",
+    "code": "63",
+    "province_link": "63.html"
+  },
+  {
+    "name": "宁夏回族自治区",
+    "code": "64",
+    "province_link": "64.html"
+  },
+  {
+    "name": "新疆维吾尔自治区",
+    "code": "65",
+    "province_link": "65.html"
+  }
+]

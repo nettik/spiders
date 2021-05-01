@@ -1,8 +1,8 @@
-from city_code.crawl import crawl_province, crawl_city, crawl_county, crawl_street, crawl_neighborhood
+from city_code.common.crawl import crawl_province, crawl_city, crawl_county, crawl_street, crawl_neighborhood
 import time
 from functools import wraps
-from city_code.classes.Relation import Relation
-from city_code.classes.NameCode import NameCode
+from city_code.common.classes import Relation
+from city_code.common.classes.NameCode import NameCode
 from tqdm import tqdm
 import pandas
 
